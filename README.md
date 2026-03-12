@@ -1,8 +1,8 @@
-# 🤖 **Full Circuit Diagram - Line Follower Robot**
+# **Full Circuit Diagram - Line Follower Robot**
 
 Unga components: **Arduino Uno + N20 1000RPM Motors (2) + 8 IR Sensor Array + TB6612FNG Motor Driver + 7.4V LiPo Battery (2x 3.7V series)**
 
-## 📊 **Complete Wiring Diagram - Text Format**
+##  **Complete Wiring Diagram - Text Format**
 
 ```
                     [3.7V LiPo Batt 1]     [3.7V LiPo Batt 2]
@@ -87,7 +87,7 @@ Sensor Out 8       →    A7                 →    Brown
 ─────────────────────────────────────────────────────────
 ```
 
-## 🎨 **Visual Circuit Diagram (ASCII Art)**
+##  **Visual Circuit Diagram (ASCII Art)**
 
 ```
                              7.4V SERIES BATTERY PACK
@@ -144,7 +144,7 @@ Sensor Out 8       →    A7                 →    Brown
     └───────────────────────────────────────────────────────┘
 ```
 
-## ⚡ **Power Distribution Summary**
+##  **Power Distribution Summary**
 
 ```
                     ┌─────────────────┐
@@ -175,7 +175,7 @@ Sensor Out 8       →    A7                 →    Brown
               └─────────┘
 ```
 
-## 🛡️ **Protection Components (Optional but Recommended)**
+##  **Protection Components (Optional but Recommended)**
 
 ```
 Add these for safety and stability:
@@ -194,7 +194,7 @@ Add these for safety and stability:
    Battery (+) ────[Switch]────► Circuit
 ```
 
-## 📋 **Quick Reference Table**
+##  **Quick Reference Table**
 
 | Component | Power Source | Signal Pins | GND |
 |-----------|-------------|-------------|-----|
@@ -205,7 +205,7 @@ Add these for safety and stability:
 | Motor A | TB6612 AO1/AO2 | - | - |
 | Motor B | TB6612 BO1/BO2 | - | - |
 
-## ✅ **Final Connection Checklist**
+##  **Final Connection Checklist**
 
 - [ ] 3.7V batteries series la connect aachaa? (Check voltage: 7.4V-8.4V)
 - [ ] Battery (+) to Arduino VIN connect aachaa?
@@ -218,7 +218,7 @@ Add these for safety and stability:
 - [ ] Motors to TB6612 outputs connect aachaa?
 - [ ] Double-check for shorts before power on?
 
-## 🚨 **Power-On Sequence**
+##  **Power-On Sequence**
 
 1. Double-check all connections
 2. Measure battery voltage (should be 7.4V-8.4V)
