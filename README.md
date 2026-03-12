@@ -35,7 +35,7 @@ Unga components: **Arduino Uno + N20 1000RPM Motors (2) + 8 IR Sensor Array + TB
                                    [Common GND]
 ```
 
-## 🔌 **Detailed Pin-to-Pin Connections**
+## **Detailed Pin-to-Pin Connections**
 
 ### **1. POWER SECTION**
 ```
