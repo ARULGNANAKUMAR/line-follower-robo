@@ -226,7 +226,3 @@ Add these for safety and stability:
 4. Check Arduino power LED (ON)
 5. Check TB6612 (should be warm, not hot)
 6. Upload code and test
-
----
-
-**Circuit ready!** Idhu padi connect panna unga line follower work aagum. Test panni paaru. Any doubts?
