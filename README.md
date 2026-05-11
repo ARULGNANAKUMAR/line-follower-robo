@@ -175,7 +175,7 @@ Sensor Out 8       →    A7                 →    Brown
               └─────────┘
 ```
 
-##  **Protection Components (Optional but Recommended)**
+##  **Protection Components**
 
 ```
 Add these for safety and stability:
